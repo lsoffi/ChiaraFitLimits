@@ -3,10 +3,15 @@
 *~
 .svn
 #.gitignore
+*.png
+*.eps
+*.pdf
+LSF*
 
 # root compiled macros
 *_C.d
 *_C.so
+*.d
 
 # Compiled Object files
 *.slo

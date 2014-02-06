@@ -3,7 +3,7 @@
 *~
 .svn
 #.gitignore
-
+#*.txt
 # root compiled macros
 *_C.d
 *_C.so
