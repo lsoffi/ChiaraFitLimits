@@ -1,0 +1,14 @@
+@(#)CERN job starter $Date: 2010/06/23 14:22:16 $
+Working directory is </pool/lsf/soffi/447866642> on <lxbsq1519.cern.ch>
+
+/afs/cern.ch/work/s/soffi/CMSSW_5_2_3-globe/src/HiggsAnalysis/HiggsTo2photons/h2gglobe/ChiaraFitLimits/BiasStudy/build/TestSW_noPois.exe: error while loading shared libraries: libCore.so: cannot open shared object file: No such file or directory
+
+Job finished at Sat Sep 14 14:51:52 CEST 2013 on node 
+ under linux version Scientific Linux CERN SLC release 5.8 (Boron)
+
+
+CERN statistics: This job used 0:00:01 NCU hours (1 NCU seconds)
+
+CERN statistics: This job used 0:00:01 KSI2K hours (1 KSI2K seconds)
+
+KSI2K = kilo-SpecInt2000 benchmark units = 1.00 NCU

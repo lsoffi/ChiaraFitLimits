@@ -1,0 +1,99 @@
+#######CAT0###########
+#sum 2 exp
+tau1 = -0.01 +/- 0.001 L(-1. - 0.)
+tau2 = -0.03 +/- 0.001 L(-1. - 0.)
+cat0 = 0.44 +/- 0.001 L(0. - 1.)
+
+#sum 2 powlow
+pow1 = 3.9 +/- 0.001 L(0. - 50.)
+pow2 = 3.89 +/- 0.001 L(0. - 50.)
+frac2powlow = 0.8 +/- 0.001 L(0. - 1.)
+
+#expol
+p1Expol = 17.7459 +/- 1.4988   L(0 - 40) 
+p2Expol = 0.0613267 +/- 0.00107667  L(0.0001 - 1.)
+
+#dijet
+p1DiJet = 5.82 +/- 1.4988   L(0 - 40) 
+p2DiJet = 0.000000649 +/- 0.00107667   L(0.000000001 - 1.)
+p3DiJet = 0.263 +/- 0.00107667   L(0.0001 - 1.)
+
+#signal
+PhotonsMass_sig_alphaCB_cat0 =  1.5 +/- 0.14373 C L(1.4 - 1.6) 
+PhotonsMass_sig_alphaC_cat0 =  0.127 +/- 0.020048 C L(0.11 - 0.14) 
+PhotonsMass_sig_mean_cat0 =  299.8 +/- 0.12914 C L(299 - 301.5) 
+PhotonsMass_sig_n_cat0 =  7.4 +/- 1.0896 C L(7 - 7.8) 
+PhotonsMass_sig_sigma_cat0 =  1.62 +/- 0.15496 C L(1 - 2) 
+
+
+
+#######CAT1###########
+
+#signal
+PhotonsMass_sig_alphaCB_cat1 =  1.5 +/- 0.14373 C L(1.4 - 1.6) 
+PhotonsMass_sig_alphaC_cat1 =  0.127 +/- 0.020048 C L(0.11 - 0.14) 
+PhotonsMass_sig_mean_cat1 =  299.8 +/- 0.12914 C L(299 - 301.5) 
+PhotonsMass_sig_n_cat1 =  7.4 +/- 1.0896 C L(7 - 7.8) 
+PhotonsMass_sig_sigma_cat1 =  1.62 +/- 0.15496 C L(1 - 2) 
+
+#yields
+bkgYield_m150_cat1 =  10000.0 +/- 100  L(0 - 1e+10) 
+bkgYield_m200_cat1 =  10000.0 +/- 100  L(0 - 1e+10)	
+bkgYield_m250_cat1 =  10000.0 +/- 100  L(0 - 1e+10) 
+bkgYield_m300_cat1 =  10000.0 +/- 100  L(0 - 1e+10)
+bkgYield_m400_cat1 =  10000.0 +/- 100  L(0 - 1e+10) 
+
+sigYield_m150_cat1 =  1.0 +/- 1  L(0 - 1e+7) 
+sigYield_m200_cat1 =  1.0 +/- 1  L(0 - 1e+7) 
+sigYield_m250_cat1 =  1.0 +/- 1  L(0 - 1e+7) 
+sigYield_m300_cat1 =  1.0 +/- 1  L(0 - 1e+5)
+sigYield_m400_cat1 =  1.0 +/- 1  L(0 - 1e+7) 
+
+
+#######CAT2###########
+
+#signal
+PhotonsMass_sig_alphaCB_cat2 =  1.5 +/- 0.14373 C L(1.4 - 1.6) 
+PhotonsMass_sig_alphaC_cat2 =  0.127 +/- 0.020048 C L(0.11 - 0.14) 
+PhotonsMass_sig_mean_cat2 =  299.8 +/- 0.12914 C L(299 - 301.5) 
+PhotonsMass_sig_n_cat2 =  7.4 +/- 1.0896 C L(7 - 7.8) 
+PhotonsMass_sig_sigma_cat2 =  1.62 +/- 0.15496 C L(1 - 2) 
+
+#yields
+bkgYield_m150_cat2 =  10000.0 +/- 100  L(0 - 1e+10) 
+bkgYield_m200_cat2 =  10000.0 +/- 100  L(0 - 1e+10)	
+bkgYield_m250_cat2 =  10000.0 +/- 100  L(0 - 1e+10) 
+bkgYield_m300_cat2 =  10000.0 +/- 100  L(0 - 1e+10)
+bkgYield_m400_cat2 =  10000.0 +/- 100  L(0 - 1e+10) 
+
+sigYield_m150_cat2 =  1.0 +/- 1  L(0 - 1e+7) 
+sigYield_m200_cat2 =  1.0 +/- 1  L(0 - 1e+7) 
+sigYield_m250_cat2 =  1.0 +/- 1  L(0 - 1e+7) 
+sigYield_m300_cat2 =  1.0 +/- 1  L(0 - 1e+5)
+sigYield_m400_cat2 =  1.0 +/- 1  L(0 - 1e+7) 
+
+ 
+#######CAT3###########
+
+#signal
+PhotonsMass_sig_alphaCB_cat3 =  1.5 +/- 0.14373 C L(1.4 - 1.6) 
+PhotonsMass_sig_alphaC_cat3 =  0.127 +/- 0.020048 C L(0.11 - 0.14) 
+PhotonsMass_sig_mean_cat3 =  299.8 +/- 0.12914 C L(299 - 301.5) 
+PhotonsMass_sig_n_cat3 =  7.4 +/- 1.0896 C L(7 - 7.8) 
+PhotonsMass_sig_sigma_cat3 =  1.62 +/- 0.15496 C L(1 - 2) 
+
+#yields
+bkgYield_m150_cat3 =  10000.0 +/- 100  L(0 - 1e+10) 
+bkgYield_m200_cat3 =  10000.0 +/- 100  L(0 - 1e+10)	
+bkgYield_m250_cat3 =  10000.0 +/- 100  L(0 - 1e+10) 
+bkgYield_m300_cat3 =  10000.0 +/- 100  L(0 - 1e+10)
+bkgYield_m400_cat3 =  10000.0 +/- 100  L(0 - 1e+10) 
+
+sigYield_m150_cat3 =  1.0 +/- 1  L(0 - 1e+7) 
+sigYield_m200_cat3 =  1.0 +/- 1  L(0 - 1e+7) 
+sigYield_m250_cat3 =  1.0 +/- 1  L(0 - 1e+7) 
+sigYield_m300_cat3 =  1.0 +/- 1  L(0 - 1e+5)
+sigYield_m400_cat3 =  1.0 +/- 1  L(0 - 1e+7) 
+
+
+mu =  1+/-0.001 L(-20 - 20)

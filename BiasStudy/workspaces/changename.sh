@@ -1,0 +1,16 @@
+mv HighMass-hgg.m150.0_w0_inputBias_truth_8TeV_130_230.root       HighMass-hgg.m150.0_w0_inputBias_truth_8TeV_FIX.root   
+mv HighMass-hgg.m150.0_w10_inputBias_truth_8TeV_130_230.root  	  HighMass-hgg.m150.0_w10_inputBias_truth_8TeV_FIX.root  
+mv HighMass-hgg.m250.0_w0_inputBias_truth_8TeV_200_550.root   	  HighMass-hgg.m250.0_w0_inputBias_truth_8TeV_FIX.root   
+mv HighMass-hgg.m250.0_w10_inputBias_truth_8TeV_200_550.root  	  HighMass-hgg.m250.0_w10_inputBias_truth_8TeV_FIX.root  
+mv HighMass-hgg.m350.0_w0_inputBias_truth_8TeV_250_650.root   	  HighMass-hgg.m350.0_w0_inputBias_truth_8TeV_FIX.root   
+mv HighMass-hgg.m350.0_w10_inputBias_truth_8TeV_250_650.root  	  HighMass-hgg.m350.0_w10_inputBias_truth_8TeV_FIX.root  
+mv HighMass-hgg.m450.0_w0_inputBias_truth_8TeV_300_700.root   	  HighMass-hgg.m450.0_w0_inputBias_truth_8TeV_FIX.root   
+mv HighMass-hgg.m450.0_w10_inputBias_truth_8TeV_300_700.root  	  HighMass-hgg.m450.0_w10_inputBias_truth_8TeV_FIX.root  
+mv HighMass-hgg.m550.0_w0_inputBias_truth_8TeV_300_800.root   	  HighMass-hgg.m550.0_w0_inputBias_truth_8TeV_FIX.root   
+mv HighMass-hgg.m550.0_w10_inputBias_truth_8TeV_300_800.root  	  HighMass-hgg.m550.0_w10_inputBias_truth_8TeV_FIX.root  
+mv HighMass-hgg.m650.0_w0_inputBias_truth_8TeV_450_800.root   	  HighMass-hgg.m650.0_w0_inputBias_truth_8TeV_FIX.root   
+mv HighMass-hgg.m650.0_w10_inputBias_truth_8TeV_450_800.root  	  HighMass-hgg.m650.0_w10_inputBias_truth_8TeV_FIX.root  
+mv HighMass-hgg.m750.0_w0_inputBias_truth_8TeV_450_1000.root  	  HighMass-hgg.m750.0_w0_inputBias_truth_8TeV_FIX.root  
+mv HighMass-hgg.m750.0_w10_inputBias_truth_8TeV_450_1000.root 	  HighMass-hgg.m750.0_w10_inputBias_truth_8TeV_FIX.root 
+mv HighMass-hgg.m850.0_w0_inputBias_truth_8TeV_550_1000.root  	  HighMass-hgg.m850.0_w0_inputBias_truth_8TeV_FIX.root  
+mv HighMass-hgg.m850.0_w10_inputBias_truth_8TeV_550_1000.root 	  HighMass-hgg.m850.0_w10_inputBias_truth_8TeV_FIX.root 

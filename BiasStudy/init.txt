@@ -1,0 +1,8 @@
+constTerm_EB-absEta_1_1.4442-gold-Et_25-trigger-noPF =  0.016500 +/- 0.030000 L(0.0005 - 0.05) 
+constTerm_EB-absEta_1_1.4442-bad-Et_25-trigger-noPF =  0.025500 +/- 0.030000 L(0.0005 - 0.05) 
+constTerm_EB-absEta_0_1-gold-Et_25-trigger-noPF =  0.013500 +/- 0.030000 L(0.0005 - 0.05) 
+constTerm_EB-absEta_0_1-bad-Et_25-trigger-noPF =  0.014000 +/- 0.030000 L(0.0005 - 0.05) 
+constTerm_EE-absEta_2_2.5-gold-Et_25-trigger-noPF =  0.025000 +/- 0.030000 L(0.0005 - 0.05) 
+constTerm_EE-absEta_2_2.5-bad-Et_25-trigger-noPF =  0.023500 +/- 0.030000 L(0.0005 - 0.05) 
+constTerm_EE-absEta_1.566_2-gold-Et_25-trigger-noPF =  0.021500 +/- 0.030000 L(0.0005 - 0.05) 
+constTerm_EE-absEta_1.566_2-bad-Et_25-trigger-noPF =  0.024000 +/- 0.030000 L(0.0005 - 0.05) 
