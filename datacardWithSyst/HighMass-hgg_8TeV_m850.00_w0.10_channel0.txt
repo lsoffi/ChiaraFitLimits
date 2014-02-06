@@ -1,0 +1,26 @@
+#CMS-HGG HighMass DataCard for Unbinned Limit Setting, 19500 pb-1 
+#Run with: combine -d datacardName.txt -U -m *mass* -H ProfileLikelihood -M MarkovChainMC --rMin=0 --rMax=20.0  -b 3000 -i 50000 --optimizeSim=1 --tries 30
+# Lumi =  19500 pb-1
+imax *
+jmax *
+kmax *
+---------------
+shapes data_obs * workspaces/HighMass-hgg.inputbkg_m850.00.root w_all:data_obs_$CHANNEL
+shapes sig * workspaces/HighMass-hgg_8TeV_m850.00_w0.10.inputsig.root w_all:PhotonsMassSig_$CHANNEL
+shapes bkg * workspaces/HighMass-hgg.inputbkg_m850.00.root w_all:PhotonsMassBkg_$CHANNEL
+---------------
+bin          cat0
+observation   115
+------------------------------
+bin                 cat0      cat0
+process                 sig      bkg
+process                   0        1
+rate                   19620  115
+--------------------------------
+# signal scaled by 1
+lumi_8TeV     lnN     1.044000  - 
+eff_trig     lnN     1.010000  - 
+id_eff_eb     lnN     1.020099  - 
+id_eff_ee     lnN     1.000002  - 
+r9Eff   lnN   1.082/0.835   - 
+vtxEff   lnN   0.996/1.008   - 

@@ -1,0 +1,32 @@
+Combination of Name0=HighMass-hgg_8TeV_m650.00_w10.00_channel0.txt  Name1=HighMass-hgg_8TeV_m650.00_w10.00_channel1.txt  Name2=HighMass-hgg_8TeV_m650.00_w10.00_channel2.txt  Name3=HighMass-hgg_8TeV_m650.00_w10.00_channel3.txt
+imax 4 number of bins
+jmax 1 number of processes minus 1
+kmax 6 number of nuisance parameters
+----------------------------------------------------------------------------------------------------------------------------------
+shapes bkg       Name0     workspaces/HighMass-hgg.inputbkg_m650.00.root w_all:PhotonsMassBkg_cat0
+shapes data_obs  Name0     workspaces/HighMass-hgg.inputbkg_m650.00.root w_all:data_obs_cat0
+shapes sig       Name0     workspaces/HighMass-hgg_8TeV_m650.00_w10.00.inputsig.root w_all:PhotonsMassSig_cat0
+shapes bkg       Name1     workspaces/HighMass-hgg.inputbkg_m650.00.root w_all:PhotonsMassBkg_cat1
+shapes data_obs  Name1     workspaces/HighMass-hgg.inputbkg_m650.00.root w_all:data_obs_cat1
+shapes sig       Name1     workspaces/HighMass-hgg_8TeV_m650.00_w10.00.inputsig.root w_all:PhotonsMassSig_cat1
+shapes bkg       Name2     workspaces/HighMass-hgg.inputbkg_m650.00.root w_all:PhotonsMassBkg_cat2
+shapes data_obs  Name2     workspaces/HighMass-hgg.inputbkg_m650.00.root w_all:data_obs_cat2
+shapes sig       Name2     workspaces/HighMass-hgg_8TeV_m650.00_w10.00.inputsig.root w_all:PhotonsMassSig_cat2
+shapes bkg       Name3     workspaces/HighMass-hgg.inputbkg_m650.00.root w_all:PhotonsMassBkg_cat3
+shapes data_obs  Name3     workspaces/HighMass-hgg.inputbkg_m650.00.root w_all:data_obs_cat3
+shapes sig       Name3     workspaces/HighMass-hgg_8TeV_m650.00_w10.00.inputsig.root w_all:PhotonsMassSig_cat3
+----------------------------------------------------------------------------------------------------------------------------------
+bin          Name0        Name1        Name2        Name3      
+observation  233.0        207.0        198.0        307.0      
+----------------------------------------------------------------------------------------------------------------------------------
+bin                             Name0        Name0        Name1        Name1        Name2        Name2        Name3        Name3      
+process                         sig          bkg          sig          bkg          sig          bkg          sig          bkg        
+process                         0            1            0            1            0            1            0            1          
+rate                            19620.0000   233.0000     19620.0000   207.0000     19620.0000   198.0000     19620.0000   307.0000   
+----------------------------------------------------------------------------------------------------------------------------------
+eff_trig                lnN     1.01         -            1.01         -            1.01         -            1.01         -          
+id_eff_eb               lnN     1.020099     -            1.020095     -            1.007357     -            1.008078     -          
+id_eff_ee               lnN     1.000002     -            1.000014     -            1.03305      -            1.031128     -          
+lumi_8TeV               lnN     1.044        -            1.044        -            1.044        -            1.044        -          
+r9Eff                   lnN     1.082/0.835  -            0.922/1.157  -            1.115/0.767  -            0.896/1.210  -          
+vtxEff                  lnN     0.996/1.008  -            0.998/1.005  -            0.996/1.007  -            0.998/1.003  -          
